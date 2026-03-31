@@ -1,0 +1,10 @@
+{
+    "backpacked_addon": {
+        "name": "WetBackpacks",
+        "description": "Adds some cool backpacks!",
+        "author": "Lean_St, Gere",
+        "addon_format": 1,
+        "assets_format": 34,
+        "data_format": 48
+    }
+}
