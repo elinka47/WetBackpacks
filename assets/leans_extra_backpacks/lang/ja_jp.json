@@ -1,0 +1,12 @@
+{
+  "backpack.leans_extra_backpacks.fisherman": "釣り人のバックパック",
+  "backpack.leans_extra_backpacks.fisherman.unlock": "釣竿をクラフトすることで解放される",
+  "backpack.leans_extra_backpacks.explorer": "冒険者のバックパック",
+  "backpack.leans_extra_backpacks.explorer.unlock": "3000ブロック移動することで解放される",
+  "backpack.leans_extra_backpacks.pirate_king": "麦わら帽子のバックパック",
+  "backpack.leans_extra_backpacks.pirate_king.unlock": "ピリジャーまたはヴィンディケーターを合計10体討伐することで解放される",
+  "backpack.leans_extra_backpacks.micropack": "マイクロバックパック",
+  "backpack.leans_extra_backpacks.swordpack": "剣士のバックパック",
+  "backpack.leans_extra_backpacks.swordpack.unlock": "ダイヤの剣をクラフトすることで解放される",
+  "backpack.leans_extra_backpacks.computer": "コンピューターバックパック"
+}
